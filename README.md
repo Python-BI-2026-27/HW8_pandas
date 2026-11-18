@@ -1,13 +1,15 @@
-# HW 8. Pandas
+# Olympic Games Data Analysis (Pandas Practice)
 
-Аналогично ДЗ по numpy вам дан ноутбук `HW8_pandas.ipynb`. Откройте его и решите предложенные в нём задания. Можно использовать **только** numpy, pandas и стандартную библиотеку.
+This repository contains practical exercises and solutions for **Pandas** library homework. The tasks are performed on the historical Olympic Games dataset (`olympics`).
 
-### Форма сдачи
+Author: Angelina Popova
 
-Сделайте форк, решите задание локально и отправьте пуш в мой репозиторий. Ссылку на пуш никуда прикладывать не надо. НЕ НАДО создавать копию этого ноутбука.
+## Overview of Tasks
 
-### Pазбалловка
+The notebook covers essential data manipulation and analysis techniques:
 
-- Задания весят от 2 до 6 баллов в зависимости от сложности, суммарно 50 баллов
-
-Удачи! ✨✨
+* **Data Inspection:** Viewing top rows, checking column names, and analyzing data types .
+* **Descriptive Statistics:** Counting unique values, calculating statistics and relative frequencies.
+* **Filtering & Querying:** Selecting subsets of data using boolean indexing, string matching.
+* **Data Cleaning & Feature Engineering:** Handling missing values, detecting duplicates.
+* **Grouping & Aggregation:** Grouping records by Olympic Games and applying aggregation functions with sorting.
